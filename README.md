@@ -6,11 +6,11 @@
 </p>
 ### Hi there 👋
 
- 🔭 I’m currently working on Ren'Py mods and games!
- 🌱 I’m currently learning python
- 👯 I’m looking to collaborate on the Doki Doki ModSelector project
- 💬 Ask me about anything
- 📫 How to reach me: noahjohnsmyth@gmail.com or Retasu#1803 on Discord!
- 😄 Pronouns: He/Him
+ 🔭 I’m currently working on Ren'Py mods and games!\n
+ 🌱 I’m currently learning python\n
+ 👯 I’m looking to collaborate on the Doki Doki ModSelector project\n
+ 💬 Ask me about anything\n
+ 📫 How to reach me: noahjohnsmyth@gmail.com or Retasu#1803 on Discord!\n
+ 😄 Pronouns: He/Him\n
  ⚡ Fun fact: I'm not fun.
 
