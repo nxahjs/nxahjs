@@ -1,4 +1,4 @@
-# [![noah smyth header](https://raw.githubusercontent.com/noahjohnsmyth/noahjsmyth/master/githubbannner.png)]
+# [![noah smyth header](https://github.com/noahjsmyth/noahjsmyth/raw/master/githubbanner.png)]
 ### Hi there 👋
 
 <!--
