@@ -11,7 +11,7 @@
  🌱 I’m currently learning python<br>
  👯 I’m looking to collaborate on the Doki Doki ModSelector project<br>
  💬 Ask me about anything<br>
- 📫 How to reach me: noahjohnsmyth@gmail.com or Retasu#1803 on Discord!<br>
+ 📫 How to reach me: noahjohnsmyth@gmail.com or noahs#1803 on Discord!<br>
  😄 Pronouns: He/Him<br>
  ⚡ Fun fact: I'm not fun.
 </p>
