@@ -1,9 +1,5 @@
 
-<p align='center'>
-<a href="https://twitter.com/_noahsmyth_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/_noah.smyth_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <img src="https://visitor-badge.glitch.me/badge?page_id=noahjsmyth.visitor-badge">
-</p>
 <p text-align='center'>
  <b>Hi there 👋,</b>
 
