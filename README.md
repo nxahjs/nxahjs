@@ -1,5 +1,6 @@
-
+<p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=noahjsmyth.visitor-badge">
+ </p>
 <p text-align='center'>
  <b>Hi there 👋,</b>
 
