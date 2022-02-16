@@ -1,4 +1,4 @@
-## ![noah smyth header](https://github.com/noahjsmyth/noahjsmyth/raw/master/githubbanner.png)
+
 <p align='center'>
 <a href="https://twitter.com/_noahsmyth_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/_noah.smyth_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
