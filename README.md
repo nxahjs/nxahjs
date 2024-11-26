@@ -4,6 +4,6 @@
 <p text-align='center'>
  <b>Hi there 👋,</b>
 
- 📫 How to reach me: nxahjs#8623 on Discord!<br>
+ 📫 How to reach me: @nxahjs on Discord!<br>
  😄 Pronouns: He/Him<br>
 </p>
