@@ -14,4 +14,11 @@ I completed a week-long work experience event at Queen's University Belfast, Nor
 In the summer of 2024, I attended a two-day virtual work experience event with IT company Kainos. During this work experience, we learned about and attempted SQL injection, <a href="https://nxahjs.github.io/kainos-WorkExperience">created a website in HTML</a>, and developed teamwork and communication skills through group tasks.
 </li>
 
+<h2>Hobbies</h2>
+ <li>
+  In my spare time, I have taught myself <a href="https://instagram.com/petulantpeanuts">guitar</a>, and I frequently play and post videos to my Instagram. 🎸
+ </li>
+ <li>
+  I also love to tinker with hardware such as PCs, Laptops, Phones, and Game Consoles. 🎮
+ </li>
 </p>
