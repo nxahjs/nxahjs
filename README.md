@@ -11,7 +11,7 @@ I completed a week-long work experience event at Queen's University Belfast, Nor
 
  <li>
   <h4>Kainos (2024)</h4>
-In the summer of 2024, I attended a week-long virtual work experience event with IT company Kainos. During this work experience, we learned about and attempted SQL injection, <a href="https://nxahjs.github.io/kainos-WorkExperience">created a website in HTML, and developed teamwork and communication skills through group tasks</a>
+In the summer of 2024, I attended a week-long virtual work experience event with IT company Kainos. During this work experience, we learned about and attempted SQL injection, <a href="https://nxahjs.github.io/kainos-WorkExperience">created a website in HTML</a>, and developed teamwork and communication skills through group tasks.
 </li>
 
 </p>
