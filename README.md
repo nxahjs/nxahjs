@@ -1,7 +1,7 @@
  <h1>Hi there 👋</h1>
  I'm <i>Noah Smyth</i>, an A-Level Computer Science student from Northern Ireland.<br><br>
- 📫 Email: <a href="mailto:noahjohnsmyth@gmail.com">noahjohnsmyth@gmail.com</a><br>
- 😄 Pronouns: He/Him
+Email: <a href="mailto:noahjohnsmyth@gmail.com">noahjohnsmyth@gmail.com</a><br>
+Pronouns: He/Him
 
  <h2>Experience</h2>
  <li>
