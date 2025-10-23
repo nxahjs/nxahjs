@@ -6,7 +6,7 @@
  <h2>Experience</h2>
  <li>
   <h4>Queen's University Belfast XP Work Experience (2025)</h4>
-I completed a week-long work experience event at Queen's University Belfast, Northern Ireland. This work experience involved teams working to develop a solution to one of the United Nation's Sustainable Development Goals involving modern technology. My team succesfully completed our task and won an award for "Biggest Real World Impact", for a device that uses sensors to scan and collect pollution in the ocean.
+I completed a week-long work experience event at Queen's University Belfast, Northern Ireland. This work experience involved teams working to develop a solution to one of the United Nation's Sustainable Development Goals involving modern technology. My team succesfully completed our task and won an award for "Biggest Real World Impact", for a device that uses sensors to scan and collect pollution in the ocean. More detail can be found <a href="https://www.qub.ac.uk/schools/eeecs/News/ALookBackatthe2025XPWorkExperienceinEEECS.html">here.</a>
 </li>
 
  <li>
